@@ -1,0 +1,11 @@
+/wotreplay-parser.xcodeproj
+
+data
+CMakeFiles
+CMakeCache.txt
+cmake_install.cmake
+bin
+output
+调试命令.sh
+examples
+.vscode
